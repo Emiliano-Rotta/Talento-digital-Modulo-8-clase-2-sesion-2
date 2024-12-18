@@ -11,6 +11,7 @@
 
 // Especificaciones técnicas:
 // Estructura de endpoints:
+
 // GET /usuarios: Devuelve la lista completa de usuarios.
 // GET /usuarios/:id: Devuelve el usuario correspondiente al ID especificado.
 // POST /usuarios: Crea un nuevo usuario.
